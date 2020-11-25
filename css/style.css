@@ -1,0 +1,22 @@
+
+body {
+    font-family: "Roboto-Regular", sans-serif;
+    background-color: #EAF6F6;
+}
+
+h1, h3{
+
+    color: #66BFBF;
+}
+
+hr{
+    border-color: rgb(128, 128, 128, .25);
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 2px;
+
+}
+
+img{
+    height: 150px;
+}
